@@ -57,7 +57,7 @@ int maxBalance(double balances[], int N){
 }
 
 int main() {
-    cout << "** Welcome to UIC Bank v2.0 **" << endl;
+    cout << "** Welcome to Bank v2.0 **" << endl;
     
     //
     // (1) Input banking filename, confirm file can be opened, and input the 5 bank accounts:
